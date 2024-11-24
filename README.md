@@ -7,6 +7,9 @@ NOTE: I cannot share the source code because the paid assets included in the sou
 
 The game offers an enjoyable experience with mechanics that focus on collecting colorful balls and precise control. Each level requires strategic movements and careful planning.
 
+
+![rolling botllle](https://github.com/user-attachments/assets/002e59a8-60cc-4cce-b484-dc5a1f651425)
+
 ---
 
 ## Technical Details
@@ -15,11 +18,7 @@ The game offers an enjoyable experience with mechanics that focus on collecting 
 - **Programming Language:** C#  
 - **Game Type:** Runner
 
----
-
-## Screenshots
 
 
-![rolling botllle](https://github.com/user-attachments/assets/002e59a8-60cc-4cce-b484-dc5a1f651425)
 
 
