@@ -1,21 +1,20 @@
 # Rolling Bottle Runner
 
-**Rolling Bottle Runner**, hızlı reflekslere dayalı bir runner oyunudur. Oyuncular, yuvarlanan bir kavanozu yönlendirirken toplar toplar, engelleri aşar ve bölümü başarıyla tamamlamak için kavanozu merdivenden aşağı kırılmadan indirir.  
+**Rolling Bottle Runner** is a reflex-based runner game. Players guide a rolling jar, collecting balls, overcoming obstacles, and carefully guiding the jar down a staircase without breaking to successfully complete the level.
 
-## Oyun Özeti  
+## Game Overview
 
-Oyun, renkli toplar toplama ve hassas kontrol mekanikleriyle eğlenceli bir deneyim sunar. Her bölüm, stratejik hareketler ve dikkatli bir planlama gerektirir.  
+The game offers an enjoyable experience with mechanics that focus on collecting colorful balls and precise control. Each level requires strategic movements and careful planning.
+
+---
+
+## 🔧 Technical Details
+
+- **Game Engine:** Unity  
+- **Programming Language:** C#  
+- **Game Type:** Runner
 
 ---
 
-## Teknik Detaylar  
-
-- **Oyun Motoru:** Unity  
-- **Programlama Dili:** C#  
-- **Oyun Türü:** Runner  
-
----
-## Ekran Görüntüleri
-
-Rolling Jar Runner, renkli toplar ve hassas hareketler gerektiren, eğlenceli bir oyun deneyimi sunar. Geri bildirimleriniz, oyunun geliştirilmesine katkı sağlayacaktır.  
+## Screenshots
 
