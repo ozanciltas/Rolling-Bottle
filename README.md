@@ -8,7 +8,7 @@ The game offers an enjoyable experience with mechanics that focus on collecting 
 
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 - **Game Engine:** Unity  
 - **Programming Language:** C#  
@@ -17,4 +17,8 @@ The game offers an enjoyable experience with mechanics that focus on collecting 
 ---
 
 ## Screenshots
+
+
+![rolling botllle](https://github.com/user-attachments/assets/002e59a8-60cc-4cce-b484-dc5a1f651425)
+
 
